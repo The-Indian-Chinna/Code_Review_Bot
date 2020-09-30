@@ -1,0 +1,5 @@
+{
+    "file_path": "tests/test_performance_profiler/input_01.py",
+    "number_of_calls_thresh": 1000,
+    "cumulative_time_thresh": 10.0
+}

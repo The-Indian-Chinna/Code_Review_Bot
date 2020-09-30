@@ -1,0 +1,11 @@
+| Error Type     |   Line Number | Error Description                                                                                | Code      |
+|----------------|---------------|--------------------------------------------------------------------------------------------------|-----------|
+| Duplicate code |             3 | 3 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             4 | 3 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             5 | 3 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             7 | 6 repeated instances of: 'Num(1)'                                                                | y = 1     |
+| Duplicate code |             8 | 6 repeated instances of: 'Num(1)'                                                                | y = y + 1 |
+| Duplicate code |             9 | 6 repeated instances of: 'Num(1)'                                                                | y = y + 1 |
+| Duplicate code |            11 | 4 repeated instances of: 'Name('x', Load())'                                                     | print(x)  |
+| Duplicate code |             2 | 4 repeated instances of: 'Name('x', Store())'                                                    | x = 0     |
+| Duplicate code |            12 | 3 repeated instances of: 'Name('y', Load())'                                                     | print(y)  |

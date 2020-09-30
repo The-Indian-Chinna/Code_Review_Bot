@@ -1,0 +1,4 @@
+| Error Type   |   Line Number | Error Description                                 | Code   |
+|--------------|---------------|---------------------------------------------------|--------|
+| MyPy Error   |             1 | Unsupported operand types for + ("str" and "int") |        |
+| MyPy Error   |            11 | "float" has no attribute "split"                  |        |

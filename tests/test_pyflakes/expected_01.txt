@@ -1,0 +1,5 @@
+| Error Type     |   Line Number | Error Description                                            | Code   |
+|----------------|---------------|--------------------------------------------------------------|--------|
+| Pyflakes Error |             1 | 'os' imported but unused                                     |        |
+| Pyflakes Error |             5 | local variable 'useless_var_a' is assigned to but never used |        |
+| Pyflakes Error |             8 | undefined name 'var_b'                                       |        |

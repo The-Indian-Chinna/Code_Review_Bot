@@ -1,0 +1,6 @@
+{
+    "FilePath": "tests/test_duplicate/test2.py",
+    "min": "2",
+    "ignore": ["None"],
+    "one_error_per_line": true
+}

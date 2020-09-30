@@ -1,0 +1,5 @@
+| Error Type      |   Line Number | Error Description   | Code   |
+|-----------------|---------------|---------------------|--------|
+| unused import   |             1 | Error in 'os'       |        |
+| unused function |             5 | Error in 'greet'    |        |
+| unused variable |            10 | Error in 'message'  |        |

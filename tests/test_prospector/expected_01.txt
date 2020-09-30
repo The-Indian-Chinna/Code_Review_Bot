@@ -1,0 +1,4 @@
+| Error Type    |   Line Number | Error Description                                                | Code   |
+|---------------|---------------|------------------------------------------------------------------|--------|
+| unused-import |             1 | Unused import os                                                 |        |
+| invalid-name  |             8 | Constant name "var_a" doesn't conform to UPPER_CASE naming style |        |

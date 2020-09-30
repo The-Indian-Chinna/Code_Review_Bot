@@ -1,0 +1,4 @@
+| Error Type   |   Line Number | Error Description                          | Code                         |
+|--------------|---------------|--------------------------------------------|------------------------------|
+| Basic Error  |             5 | this is a basic error for testing purposes | if is_basic_error(__file__): |
+| Basic Error  |            12 | this is a basic error for testing purposes | print (not_printable_object) |

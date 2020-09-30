@@ -1,0 +1,19 @@
+| Error Type     |   Line Number | Error Description                                                                                 | Code      |
+|----------------|---------------|---------------------------------------------------------------------------------------------------|-----------|
+| Duplicate code |             4 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             5 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             6 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             7 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             8 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |             9 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |            10 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |            11 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |            12 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |            13 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |            14 | 11 repeated instances of: 'Assign([Name('x', Store())], BinOp(Name('x', Load()), Add(), Num(1)))' | x = x + 1 |
+| Duplicate code |            16 | 3 repeated instances of: 'Expr(Call(Name('print', Load()), [Name('x', Load())], []))'             | print(x)  |
+| Duplicate code |            17 | 3 repeated instances of: 'Expr(Call(Name('print', Load()), [Name('x', Load())], []))'             | print(x)  |
+| Duplicate code |            18 | 3 repeated instances of: 'Expr(Call(Name('print', Load()), [Name('x', Load())], []))'             | print(x)  |
+| Duplicate code |             3 | 12 repeated instances of: 'Name('x', Store())'                                                    | x = 0     |
+| Duplicate code |            20 | 3 repeated instances of: 'Num(0)'                                                                 | y = 0     |
+| Duplicate code |            21 | 3 repeated instances of: 'Num(0)'                                                                 | z = 0     |
