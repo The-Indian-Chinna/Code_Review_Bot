@@ -1,4 +1,4 @@
-# CAM2CodeReviewBot
+# CAM2CodeReviewBot (Property of CAM2)
 Bot from the CAM2 Software Engineering Team that helps facilitate code review. 
 
 ## How to Run the Bot
